@@ -57,5 +57,3 @@ campsiteRouter
   });
 
 module.exports = campsiteRouter;
-
-//

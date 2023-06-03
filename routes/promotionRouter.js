@@ -53,5 +53,3 @@ promotionRouter
   });
 
 module.exports = promotionRouter;
-
-//
