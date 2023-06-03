@@ -57,6 +57,3 @@ campsiteRouter
   });
 
 module.exports = campsiteRouter;
-test("should first", () => {
-  second;
-});
